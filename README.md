@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/CrewMonitors. This repo is archived and read-only; full history was preserved there.
+
 # CrewMonitors
 
 Lethal Company BepInEx mod that adds a **fixed 4-panel crew monitor stack** on the ship wall. Each panel shows OpenBodyCams body cams (and map / external views via the cycle button).
